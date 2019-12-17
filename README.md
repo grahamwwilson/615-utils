@@ -10,6 +10,8 @@ Ex1.sh: Compile some code
 
 Ex2.sh: Compile some code with feedback
 
+Ex2a.sh: Same as Ex2.sh but specify the source code filename prefix
+
 Ex3.sh: Run the code with input from a file
 
 Ex4.sh: Run the code with input from a file, output to a file and 
