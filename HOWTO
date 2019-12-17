@@ -1,0 +1,24 @@
+I try to specify 
+#!/bin/sh in my scripts which uses the standard Unix shell based on 
+the IEEE Std 1003.1-2001 known as the POSIX standard.
+This derives from the original "Bourne shell" and is 
+supposed to be more portable.
+I try to avoid features of other shell scripts.
+Depending on your operating system this may be symbolically linked to 
+other shells - particularly bash.
+
+"Unix Shell Programming", 3rd edition, by Stephen Kochan 
+and Patrick Wood has been my goto desk reference for shell scripts 
+for many years.
+
+It now has a 4th edition published in 2017 entitled
+"Shell Programming in Unix, Linux and OS X". This seems to be 
+pretty similar to the 4th edition, except the Monument Valley cover.
+
+The Wikipedia article on "Shell script",
+https://en.wikipedia.org/wiki/Shell_script
+is a good starting point.
+The following has some discussion of why to try and stick to 
+the standard
+https://drewdevault.com/2018/02/05/Introduction-to-POSIX-shell.html
+
